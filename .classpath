@@ -17,5 +17,16 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="jetty-servlets-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-continuation-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-http-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-io-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-security-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-server-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-servlet-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-util-9.1.4.v20140401.jar"/>
+	<classpathentry kind="lib" path="jetty-util-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="elasticsearch-6.4.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
