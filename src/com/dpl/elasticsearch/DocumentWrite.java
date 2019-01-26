@@ -21,12 +21,6 @@ import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.common.transport.InetSocketTransportAddress;
 import org.elasticsearch.common.xcontent.XContentBuilder;
 
-/**
- * Document write using elasticsearch implementation 
- * class Author : Suvarna 
- * Created Date :  November 3rd 2016
- * 
- */
 
 public class DocumentWrite {
 
