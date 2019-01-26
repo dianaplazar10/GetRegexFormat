@@ -13,12 +13,7 @@ import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.common.transport.InetSocketTransportAddress;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.search.SearchHit;
-/**
- * Document search using elasticsearch  
- * class Author : Suvarna 
- * Created Date :  November 3rd 2016
- * 
- */
+
 
 public class DocumentSearch {
 
